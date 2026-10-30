@@ -5,4 +5,5 @@
 # Hellen edited this line
 
 Pair Collaboration Lab 🔴
+* Hellen Njue is collaborating via terminal workflow.
 * Stephen Muriu is collaborating via terminal workflow.
